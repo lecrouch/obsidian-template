@@ -1,3 +1,12 @@
+**Quick Note (2022 04 23 @ 11:22)**
+I plan on adding the entire Vault to this repo with some changes later today/tomorrow, so you can see the exact tweaks I make over time, and then implement those yourself.  So if you're going to try this out, maybe wait like 12-24 hours and it'll be a much better experience!
+
+ciao
+-julian
+
+---
+
+
 # My Current Obsidian Implementation:
 ## As a fully functioning template
 ### [Changelog](https://github.com/lecrouch/ObsidianTemplate/blob/main/CHANGELOG.md)
