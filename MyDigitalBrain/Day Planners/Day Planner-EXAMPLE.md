@@ -1,0 +1,11 @@
+## Day Planner Example
+- [x] 08:00 Meeting 1
+- [x] 09:00 Meeting 2
+- [x] 10:00 Heads down time
+- [x] 11:00 **LUNCH**
+- [ ] 12:00 *free*
+- [ ] 14:00 Meeting 3
+- [ ] 15:00 *free*
+- [ ] 16:30 CatchupTime
+- [ ] 17:00 END
+- [ ] 

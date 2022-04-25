@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "99310997f14488de",
+    "type": "split",
+    "children": [
+      {
+        "id": "242c6ea5389f7da0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "___README.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f94bafc72f7a2baa",
+    "type": "split",
+    "children": [
+      {
+        "id": "9230fb2d8a731954",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c96aa26a2210b79",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fb6f4a3d9cdcd47c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eed901f522051692",
+    "type": "split",
+    "children": [
+      {
+        "id": "484ec51d662bbd03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39d382a17ce5f77f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "___README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "da3c6929c70b801f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1db198965f6feaef",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "4e4e321b221c8b0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99e2a97af590666c",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 381.5
+  },
+  "active": "242c6ea5389f7da0",
+  "lastOpenFiles": [
+    "___README.md",
+    "Day Planners/Day Planner-20220425.md",
+    "Day Planners/Day Planner-EXAMPLE.md",
+    "Daily/2022-04-22.md",
+    "Inbox Note Tag Taxonomy.md",
+    "Templater Automation Key.md",
+    "Daily/2022-04-25.md",
+    "__Auto Template.md",
+    "Templates/Article Template.md",
+    "Templates/_Auto Template.md"
+  ]
+}

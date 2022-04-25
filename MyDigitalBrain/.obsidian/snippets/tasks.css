@@ -1,0 +1,17 @@
+.plugin-tasks-list-item {
+  padding-bottom: 16px;
+}
+
+.plugin-tasks-query-result {
+	color: MintCream;
+	margin: : 5px;
+}
+
+.tasks-backlink {
+	color: SpringGreen;
+}
+
+.task-list-item-checkbox {
+	color: red;
+	padding: 5px;
+}

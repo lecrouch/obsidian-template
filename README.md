@@ -1,12 +1,3 @@
-**Quick Note (2022 04 23 @ 11:22)**
-I plan on adding the entire Vault to this repo with some changes later today/tomorrow, so you can see the exact tweaks I make over time, and then implement those yourself.  So if you're going to try this out, maybe wait like 12-24 hours and it'll be a much better experience!
-
-ciao
--julian
-
----
-
-
 # My Current Obsidian Implementation:
 ## As a fully functioning template
 ### [Changelog](https://github.com/lecrouch/ObsidianTemplate/blob/main/CHANGELOG.md)
@@ -16,10 +7,10 @@ ciao
 
 # How to use this repo:
 1. Download and install [Obsidian.md](https://obsidian.md/)
-2. Download the `DigitalBrainTemplate.zip` from this repo
+2. Download the most current version of `MyDigitalBrain_XX.zip` from this repo, **OR** just clone the repo if you'd rather (advanced option).
 3. Unzip the contents of the file wherever you'd like to have your 'Obsidian Vault' (what Obsidian calls your note folder where *everything* is saved.
     - Since I'm part of the ecosystem I put it in my iCloud folder so that all of my devices use the *same* Vault.
-5. Open obsidian and point it the Vault you just decompressed (`DigitalBrainTemplate`)
+5. Open obsidian and point it the Vault you just decompressed (`MyDigitalBrain`)
 6. Locate the `__README` note within the Vault, it explains *everything*
 7. **FOR THE LOVE OF GOD, PLZ DO #5**
 8. *Play*

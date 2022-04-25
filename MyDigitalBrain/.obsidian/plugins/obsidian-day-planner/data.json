@@ -1,0 +1,16 @@
+{
+  "customFolder": "Day Planners",
+  "mode": 0,
+  "mermaid": false,
+  "notesToDates": [
+    {
+      "notePath": "Daily/2022-03-29.md",
+      "date": "Tue Mar 29 2022"
+    }
+  ],
+  "completePastItems": true,
+  "circularProgress": true,
+  "nowAndNextInStatusBar": true,
+  "showTaskNotification": true,
+  "timelineZoomLevel": 2
+}
