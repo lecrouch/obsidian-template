@@ -10,7 +10,8 @@
 2. Download the most current version of `MyDigitalBrain_Vxx.zip` from this repo, **OR** just clone the repo if you'd rather (advanced option).
 3. Unzip the contents of the file wherever you'd like to have your 'Obsidian Vault' (what Obsidian calls your note folder where *everything* is saved.
     - Since I'm part of Apple the ecosystem I put it in my iCloud folder so that all of my devices use the *same* Vault.
-5. Open obsidian and point it the Vault you just decompressed (`MyDigitalBrain`)
+4. Open obsidian and point it the Vault you just decompressed (`MyDigitalBrain`)
+5. When prompted about Safe Mode: **Turn Safe Mode *off***
 6. Locate the `__README` note within the Vault, it explains *everything*
 7. **FOR THE LOVE OF GOD, PLZ DO #5**
 8. *Play*
